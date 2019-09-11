@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.mycompany</groupId>
   <artifactId>camel-ose-springboot-xml</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>Fabric8 :: Quickstarts :: Spring-Boot :: Camel XML</name>
   <description>Spring Boot example running a Camel route defined in XML</description>
   <properties>
@@ -17,7 +17,7 @@
     <connection>scm:git:git://ssh@bitbucket.org/misanche/fis-test-mikel.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/misanche/fis-test-mikel.git</developerConnection>
     <url>https://github.com/misanche/fis-test-mikel</url>
-    <tag>1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
         <snapshotRepository>
