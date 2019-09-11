@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.mycompany</groupId>
   <artifactId>camel-ose-springboot-xml</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4-SNAPSHOT</version>
   <name>Fabric8 :: Quickstarts :: Spring-Boot :: Camel XML</name>
   <description>Spring Boot example running a Camel route defined in XML</description>
   <properties>
@@ -22,7 +22,7 @@
   <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <url>http://nexus-nexus.apps.leeds-3b9b.open.redhat.com/nexus/content/repositories/snapshots/</url>
+        <url>http://nexus-nexus.apps.leeds-3b9b.open.redhat.com/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
     <repository>
         <id>releases</id>
